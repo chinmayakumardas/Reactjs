@@ -11,13 +11,16 @@ Run for Vite Package<pre><code>npm run dev</code></pre>
 Build:<br>
 <pre><code>npm run build</code></pre>
 
-[**<h1>Tailwind-Installation</h1>**](https://github.com/chinmayakumardas/Reactjs/)
+[**<h1>Tailwind</h1>**](https://github.com/chinmayakumardas/Reactjs/)
 <p>First install this:</p>
-<pre>npm install -D tailwindcss postcss autoprefixer</pre>
+<pre><code>npm install -D tailwindcss postcss autoprefixer</code>></pre>
 
 <p>Run the command </p>
-<pre>npx tailwindcss init -p</pre>
+<pre><code>npx tailwindcss init -p</code>></pre>
+or Can Combine it 
 
+<pre><code>npm install -D tailwindcss postcss autoprefixer  <br>npx tailwindcss init -p
+</code></pre>
 <p>Then add this in <code>tailwind.config.js</code>:</p>
 <pre><code>/** @type {import('tailwindcss').Config} */
 export default {
@@ -36,4 +39,4 @@ export default {
 @tailwind components;
 @tailwind utilities;</code></pre>
 
-[**<h1>GSAP Animation-Installation</h1>**](https://github.com/chinmayakumardas/Reactjs/)
+[**<h1>GSAP Animation</h1>**](https://github.com/chinmayakumardas/Reactjs/)
