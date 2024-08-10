@@ -1,11 +1,11 @@
 [**<h1>React App-Installation</h1>**](https://github.com/chinmayakumardas/Reactjs/)
+<p>Create your project by this command </p><br>
 <pre><code>npx create-react-app “project-name”</code></pre>
-<p>npx create-react-app “project-name”<br>
 or<br>  
-<code>npm create vite@latest</code></p>
+<pre><code>npm create vite@latest</code></pre>
 
-<p>Run:<br>
-<code>npm run start or npm run dev</code></p>
+Run:<br>
+<pre><code>npm run start or npm run dev</code></pre>
 
 <p>Run the react App:<br>
 react App<code>npm run Start</code></p>
