@@ -1,22 +1,23 @@
-<b><a>1.React Installation:</a></b> 
-npx create-react-app “project-name”  
- or    
-npm create vite@latest
+<h2><a style="color: blue;"><b>1. React Installation:</b></a></h2>
+<p>npx create-react-app “project-name”<br>
+or<br>  
+npm create vite@latest</p>
 
-Run:
-npm run start or npm run dev
+<p>Run:<br>
+npm run start or npm run dev</p>
 
-Build:
-npm run build
-<b><a>2.Tailwind Installation: </a></b>>
-First  install this :
+<p>Build:<br>
+npm run build</p>
 
-npm install -D tailwindcss postcss autoprefixer
+<h2><a style="color: blue;"><b>2. Tailwind Installation:</b></a></h2>
+<p>First install this:</p>
+<pre>npm install -D tailwindcss postcss autoprefixer</pre>
 
-npx tailwindcss init -p
-<br>
-Then add this in tailwind.config.js
-/** @type {import('tailwindcss').Config} */
+<p>Then initialize Tailwind:</p>
+<pre>npx tailwindcss init -p</pre>
+
+<p>Then add this in <code>tailwind.config.js</code>:</p>
+<pre><code>/** @type {import('tailwindcss').Config} */
 export default {
   content: [
     "./index.html",
@@ -26,13 +27,12 @@ export default {
     extend: {},
   },
   plugins: [],
-}
-<br>
-Add this code In index.css
+}</code></pre>
 
-@tailwind base;
+<p>Add this code in <code>index.css</code>:</p>
+<pre><code>@tailwind base;
 @tailwind components;
-@tailwind utilities;
-<br>
-<a><b>Run The React App:</b></a>
-npm run dev
+@tailwind utilities;</code></pre>
+
+<h2><a style="color: blue;"><b>Run The React App:</b></a></h2>
+<p>npm run dev</p>
