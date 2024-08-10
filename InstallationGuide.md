@@ -5,11 +5,8 @@ or<br>
 <pre><code>npm create vite@latest</code></pre>
 
 Run:<br>
-<pre><code>npm run start or npm run dev</code></pre>
-
-Run the react App:<br>
-react App<pre><code>npm run Start</code></pre>
-Vite Package<pre><code>npm run dev</code></pre>
+<pre><code>npm run Start</code></pre>
+Run for Vite Package<pre><code>npm run dev</code></pre>
 
 Build:<br>
 <pre><code>npm run build</code></pre>
