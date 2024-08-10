@@ -19,7 +19,8 @@ Build:<br>
 <pre><code>npx tailwindcss init -p</code>></pre>
 or Can Combine it 
 
-<pre><code>npm install -D tailwindcss postcss autoprefixer  <br>npx tailwindcss init -p
+<pre><code>npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 </code></pre>
 <p>Then add this in <code>tailwind.config.js</code>:</p>
 <pre><code>/** @type {import('tailwindcss').Config} */
