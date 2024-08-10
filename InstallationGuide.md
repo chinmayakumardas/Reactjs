@@ -7,12 +7,12 @@ or<br>
 Run:<br>
 <pre><code>npm run start or npm run dev</code></pre>
 
-<p>Run the react App:<br>
-react App<code>npm run Start</code></p>
-Vite Package<code>npm run dev</code></pre>
+Run the react App:<br>
+react App<pre><code>npm run Start</code></pre>
+Vite Package<pre><code>npm run dev</code></pre>
 
-<p>Build:<br>
-<code>npm run build</code></p>
+Build:<br>
+<pre><code>npm run build</code></pre>
 
 [**<h1>Tailwind-Installation</h1>**](https://github.com/chinmayakumardas/Reactjs/)
 <p>First install this:</p>
