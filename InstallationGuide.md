@@ -13,7 +13,7 @@ npm run build</p>
 <p>First install this:</p>
 <pre>npm install -D tailwindcss postcss autoprefixer</pre>
 
-<h2><b>[**1. React Installation:**]</b></h2>
+[**Tailwind-Installation**](https://github.com/chinmayakumardas/Reactjs/)
 <pre>npx tailwindcss init -p</pre>
 
 <p>Then add this in <code>tailwind.config.js</code>:</p>
