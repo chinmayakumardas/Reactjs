@@ -1,4 +1,4 @@
-<h2><a style="color: blue;"><b>1. React Installation:</b></a></h2>
+<h2><b>[**1. React Installation:**]</b></h2>
 <p>npx create-react-app “project-name”<br>
 or<br>  
 npm create vite@latest</p>
@@ -13,7 +13,7 @@ npm run build</p>
 <p>First install this:</p>
 <pre>npm install -D tailwindcss postcss autoprefixer</pre>
 
-<p>Then initialize Tailwind:</p>
+<h2><b>[**1. React Installation:**]</b></h2>
 <pre>npx tailwindcss init -p</pre>
 
 <p>Then add this in <code>tailwind.config.js</code>:</p>
@@ -34,5 +34,4 @@ export default {
 @tailwind components;
 @tailwind utilities;</code></pre>
 
-<h2><a style="color: blue;"><b>Run The React App:</b></a></h2>
-<p>npm run dev</p>
+
