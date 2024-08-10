@@ -14,7 +14,7 @@ First  install this :
 npm install -D tailwindcss postcss autoprefixer
 
 npx tailwindcss init -p
-
+<br>
 Then add this in tailwind.config.js
 /** @type {import('tailwindcss').Config} */
 export default {
@@ -27,12 +27,12 @@ export default {
   },
   plugins: [],
 }
-
+<br>
 Add this code In index.css
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+<br>
 <a><b>Run The React App:</b></a>
 npm run dev
