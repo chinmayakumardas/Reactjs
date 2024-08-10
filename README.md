@@ -33,7 +33,7 @@ Contributions are welcome! Feel free to check out the [issues](https://github.co
 
 ## 📧 Contact
 
-- Email: your.email@example.com
+- Email:chinmayakumardas2000.com
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
 ---
