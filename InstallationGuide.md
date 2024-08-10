@@ -1,4 +1,4 @@
-<h2><a style="color: blue;"><b>1. React Installation: [Your LinkedIn Profile]()</b></a></h2>
+<h2><a style="color: blue;"><b>1. React Installation:</b></a></h2>
 <p>npx create-react-app “project-name”<br>
 or<br>  
 npm create vite@latest</p>
