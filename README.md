@@ -12,8 +12,8 @@ Welcome to my **ReactJS Projects Repository**! This repository contains all my R
    - **Description:** A weather forecasting app that fetches data from an API and displays it with beautiful animations.
    - ![Project 2 GIF](https://github.com/yourusername/reactjs-projects-repo/blob/main/weather-dashboard/demo.gif)
 
-3. [**Project 3: E-commerce Store**](https://github.com/yourusername/reactjs-projects-repo/tree/main/ecommerce-store)
-   - **Description:** A fully functional e-commerce store with user authentication and payment gateway integration.
+3. [**Project 3: Animated Calculator**](https://github.com/chinmayakumardas/Reactjs/tree/main/1._Animated_Calculator)
+   - **Description:** A fully functional calculator using react js and tailwind.
    - ![Project 3 GIF](https://github.com/yourusername/reactjs-projects-repo/blob/main/ecommerce-store/demo.gif)
 
 ## 🛠️ Technologies Used
