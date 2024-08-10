@@ -1,19 +1,23 @@
-[**<h1>React App vite-Installation</h1>**](https://github.com/chinmayakumardas/Reactjs/)
+[**<h1>React App-Installation</h1>**](https://github.com/chinmayakumardas/Reactjs/)
 <p>npx create-react-app “project-name”<br>
 or<br>  
-npm create vite@latest</p>
+<code>npm create vite@latest</code>></p>
 
 <p>Run:<br>
-npm run start or npm run dev</p>
+<code>npm run start or npm run dev</code>></p>
+
+<p>Run the react App:<br>
+react App<code>npm run Start</code></p>
+Vite Package<code>npm run dev</code></p>
 
 <p>Build:<br>
-npm run build</p>
+<code>npm run build</code>></p>
 
 [**<h1>Tailwind-Installation</h1>**](https://github.com/chinmayakumardas/Reactjs/)
 <p>First install this:</p>
 <pre>npm install -D tailwindcss postcss autoprefixer</pre>
 
-<h2><b>[**1. React Installation:**]</b></h2>
+<p>Run the command </p>>
 <pre>npx tailwindcss init -p</pre>
 
 <p>Then add this in <code>tailwind.config.js</code>:</p>
