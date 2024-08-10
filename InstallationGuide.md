@@ -15,7 +15,7 @@ Build:<br>
 <p>First install this:</p>
 <pre>npm install -D tailwindcss postcss autoprefixer</pre>
 
-<p>Run the command </p>>
+<p>Run the command </p>
 <pre>npx tailwindcss init -p</pre>
 
 <p>Then add this in <code>tailwind.config.js</code>:</p>
@@ -36,4 +36,4 @@ export default {
 @tailwind components;
 @tailwind utilities;</code></pre>
 
-
+[**<h1>GSAP Animation-Installation</h1>**](https://github.com/chinmayakumardas/Reactjs/)
