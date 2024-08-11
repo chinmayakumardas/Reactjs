@@ -25,12 +25,12 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 ## 🙌 Contribution
 
-Contributions are welcome! Feel free to check out the [issues](https://github.com/yourusername/reactjs-projects-repo/issues) page.
+Contributions are welcome! Feel free to check out the [issues](https://github.com/chinmayakumardas/Reactjs/issues) page.
 
 ## 📧 Contact
 
 - Email:chinmayakumardas2000.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/chinmayakdas/)
 
 ---
 
