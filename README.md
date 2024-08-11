@@ -4,12 +4,12 @@ Welcome to my **ReactJS Projects Repository**! This repository contains all my R
 
 ## 📁 Projects
 
-1. [**Project 1: Awesome Todo App**](https://github.com/yourusername/reactjs-projects-repo/tree/main/todo-app)
+1. [**Project 1: Weather App**](https://github.com/chinmayakumardas/Reactjs/tree/main/1.weather_app)
    
 
-2. [**Project 2: Weather Dashboard**](https://github.com/yourusername/reactjs-projects-repo/tree/main/weather-dashboard)
+2. [**Project 2: BMI Calculator**](https://github.com/chinmayakumardas/Reactjs/tree/main/2.Bmi_calculator)
   
-3. [**Project 3: Animated Calculator**](https://github.com/chinmayakumardas/Reactjs/tree/main/1._Animated_Calculator)
+3. [**Project 3: Quiz App**](https://github.com/chinmayakumardas/Reactjs/tree/main/3.quiz_App)
    
 
 ## 🛠️ Technologies Used
