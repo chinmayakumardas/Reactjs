@@ -16,7 +16,7 @@ Build:<br>
 <pre><code>npm install -D tailwindcss postcss autoprefixer</code>></pre>
 
 <p>Run the command </p>
-<pre><code>npx tailwindcss init -p</code>></pre>
+<pre><code>npx tailwindcss init -p</code></pre>
 or Can Combine it 
 
 <pre><code>npm install -D tailwindcss postcss autoprefixer
