@@ -13,7 +13,7 @@ Build:<br>
 
 [**<h1>Tailwind</h1>**](https://github.com/chinmayakumardas/Reactjs/)
 <p>First install this:</p>
-<pre><code>npm install -D tailwindcss postcss autoprefixer</code>></pre>
+<pre><code>npm install -D tailwindcss postcss autoprefixer</code></pre>
 
 <p>Run the command </p>
 <pre><code>npx tailwindcss init -p</code></pre>
